@@ -1,0 +1,131 @@
+{
+"menu":[
+{
+"nombre":"hamburgesa",
+"descripcion":"pan, jamon, queso, carne, lechuga",
+"precio":50,
+"imagen":"img/ hamburgesa.jpg"
+},
+{
+"nombre":"tacos",
+"descripcion":"tortilla, bistec, salsa, cilantro, salsa",
+"precio":70,
+"imagen":"img/ tacos.jpg"
+},
+{
+"nombre":"hot-dog",
+"descripcion":"pan, salchicha, mayonesa, catsup",
+"precio":25,
+"imagen":"img/ hotdog.jpg"
+},
+{
+"nombre":"Pastel",
+"descripcion":"harina, leche, merenge, fruta",
+"precio":150,
+"imagen":"img/ pastel.jpg"
+},
+{
+"nombre":"flan",
+"descripcion":"harina de chocolate, leches, vainilla",
+"precio":50,
+"imagen":"img/ flan.jpg"
+},
+{
+"nombre":"Frappe",
+"descripcion":"hielo, galleta, crema, leche",
+"precio":70,
+"imagen":"img/ frape.jpg"
+},
+{
+"nombre":"pizza",
+"descripcion":"pan, salsa de tomate, queso, peperoni",
+"precio":150,
+"imagen":"img/ pizza.jpg"
+},
+{
+"nombre":"sandwich",
+"descripcion":"pan, queso, jamon, queso",
+"precio":30,
+"imagen":"img/ sandwich.jpg"
+},
+{
+"nombre":"helado",
+"descripcion":"leche, sabor, cono de galleta",
+"precio":25,
+"imagen":"img/ helado.jpg"
+},
+{
+"nombre":"papas fritas",
+"descripcion":"papas, aceite, aderezo, sal",
+"precio":50,
+"imagen":"img/ papas.jpg"
+},
+{
+"nombre":"boneles",
+"descripcion":"pollo, salsa, ensalada",
+"precio":60,
+"imagen":"img/ boneles.jpg"
+},
+{
+"nombre":"pozole",
+"descripcion":"maiz, chile, cebolla, repollo, limon",
+"precio":50,
+"imagen":"img/ pozole.jpg"
+},
+{
+"nombre":"enchiladas",
+"descripcion":"tortilla, salsa, queso, crema",
+"precio":40,
+"imagen":"img/ enchiladas.jpg"
+},
+{
+"nombre":"crepas",
+"descripcion":"tortilla dulce, nutella, cajeta, fruta",
+"precio":70,
+"imagen":"img/ crepas.jpg"
+},
+{
+"nombre":"gelatina mosaico",
+"descripcion":"agua, sabor, leche, fruta",
+"precio":80,
+"imagen":"img/ mosaico.jpg"
+},
+{
+"nombre":"tamales",
+"descripcion":"masa, pollo, repollo, salsa",
+"precio":20,
+"imagen":"img/ tamales.webp"
+},
+{
+"nombre":"tostadas",
+"descripcion":"tostada, queso, frijol, crema, salsa",
+"precio":10,
+"imagen":"img/ tostadas.jpg"
+},
+{
+"nombre":"gomitas con chamoy",
+"descripcion":"gomitas diferentes tipos, chamoy, chile polvo",
+"precio":25,
+"imagen":"img/ gomitas.jpg "
+},
+{
+"nombre":"quesadillas",
+"descripcion":"tortilla, queso",
+"precio":15,
+"imagen":"img/ quesadillas.jpg "
+},
+{
+"nombre":"tortas",
+"descripcion":"pan, queso, jamon, mayonesa, pollo",
+"precio":20,
+"imagen":"img/ tortas.jpg"
+},
+{
+"nombre":"tostitos preparados",
+"descripcion":"sabrita, elote, mayonesa, chile, queso",
+"precio":50,
+"imagen":"img/ tostitos.jpg"
+},
+
+]
+}
